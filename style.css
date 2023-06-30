@@ -1,0 +1,41 @@
+html 
+
+body
+{ 
+    background: #350264;
+   color: #ffffff
+}
+  #ametista {   
+ Width: 400px;  }
+
+ #conteudo{
+   background-color: #350264;
+  color: #fff;
+      padding: 10px;
+      cursor: pointer;
+ }
+
+#conteudo-escondido{display: none;}
+
+#botao{ background-color: #380567;
+  color: #a2a2a0;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ .header {
+     text-align: center;
+ } 
